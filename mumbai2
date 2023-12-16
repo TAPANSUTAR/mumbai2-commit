@@ -1,7 +1,2 @@
-Dockerfile
-Dockerfile is bassically a test file et contain
-some set of instrucation
-attomation of docker image creation
-from- for basice image rthe command must be on top of the docker file
-run-to execut commands it will create a large in image
-MAINTNER-author/owner/Description
+copy-copy file from local system (docker vm) we need to provide source,destination
+(we can't download sources,desination file from internate and any remote repo)
