@@ -1,2 +1,7 @@
-devopes is methodlogi in a softerdevlopment and it industry
-used as aset pratise tool devopes inte grate
+Dockerfile
+Dockerfile is bassically a test file et contain
+some set of instrucation
+attomation of docker image creation
+from- for basice image rthe command must be on top of the docker file
+run-to execut commands it will create a large in image
+MAINTNER-author/owner/Description
